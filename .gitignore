@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+# microdados da OD (baixados por scripts/01_extrair.py)
+dados/brutos/OD-2017.zip
+dados/brutos/OD_2017_v1.dbf
+dados/processados/*.pkl
+# registro interno da sessão
+chat_*.md

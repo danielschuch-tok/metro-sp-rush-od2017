@@ -1,0 +1,515 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-23T17:57:05Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 2872092,
+  "tags": {
+    "colour": "#FF7F50",
+    "description": "Também chamado de Expresso Leste",
+    "description:en": "Also called as Expresso Leste",
+    "description:es": "También llamado como Expresso Leste",
+    "description:pt": "Também chamado de Expresso Leste",
+    "from": "Palmeiras-Barra Funda",
+    "name": "Linha 11 - Coral: Palmeiras - Barra Funda ⇒ Estudantes",
+    "network": "Companhia Paulista de Trens Metropolitanos",
+    "network:short": "CPTM",
+    "network:wikidata": "Q1121227",
+    "network:wikipedia": "pt:Companhia Paulista de Trens Metropolitanos",
+    "operator": "Companhia Paulista de Trens Metropolitanos",
+    "operator:en": "São Paulo Metropolitan Trains Company",
+    "operator:es": "Compañía Paulista de Trenes Metropolitanos",
+    "operator:short": "CPTM",
+    "operator:wikidata": "Q1121227",
+    "public_transport:version": "2",
+    "ref": "11",
+    "route": "train",
+    "service": "commuter",
+    "to": "Estudantes",
+    "type": "route",
+    "wikidata": "Q5245830"
+  }
+},
+{
+  "type": "relation",
+  "id": 2875657,
+  "tags": {
+    "colour": "#FF7F50",
+    "description": "Também chamado de Expresso Leste",
+    "description:en": "Also called as Expresso Leste",
+    "description:es": "También llamado como Expresso Leste",
+    "description:pt": "Também chamado de Expresso Leste",
+    "from": "Estudantes",
+    "name": "Linha 11 - Coral: Estudantes ⇒ Palmeiras - Barra Funda",
+    "network": "Companhia Paulista de Trens Metropolitanos",
+    "network:short": "CPTM",
+    "network:wikidata": "Q1121227",
+    "network:wikipedia": "pt:Companhia Paulista de Trens Metropolitanos",
+    "operator": "Companhia Paulista de Trens Metropolitanos",
+    "operator:en": "São Paulo Metropolitan Trains Company",
+    "operator:es": "Compañía Paulista de Trenes Metropolitanos",
+    "operator:short": "CPTM",
+    "operator:wikidata": "Q1121227",
+    "public_transport:version": "2",
+    "ref": "11",
+    "route": "train",
+    "service": "commuter",
+    "to": "Palmeiras-Barra Funda",
+    "type": "route",
+    "wikidata": "Q5245830"
+  }
+},
+{
+  "type": "node",
+  "id": 60734140,
+  "lat": -23.5351689,
+  "lon": -46.6348473,
+  "tags": {
+    "description": "Linha 11 Coral: saída",
+    "local_ref": "4",
+    "name": "Luz",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 248816022,
+  "lat": -23.5403186,
+  "lon": -46.5765028,
+  "tags": {
+    "name": "Tatuapé",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "no",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 318585656,
+  "lat": -23.5339859,
+  "lon": -46.3085706,
+  "tags": {
+    "name": "Suzano",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 318590688,
+  "lat": -23.5428255,
+  "lon": -46.2573680,
+  "tags": {
+    "name": "Jundiapeba",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 318591170,
+  "lat": -23.5359974,
+  "lon": -46.2243488,
+  "tags": {
+    "local_ref": "2",
+    "name": "Braz Cubas",
+    "old_name": "Brás Cubas",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 318591487,
+  "lat": -23.5218483,
+  "lon": -46.1985900,
+  "tags": {
+    "name": "Mogi das Cruzes",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 318591917,
+  "lat": -23.5158296,
+  "lon": -46.1851826,
+  "tags": {
+    "name": "Estudantes",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 330720751,
+  "lat": -23.5255342,
+  "lon": -46.3326754,
+  "tags": {
+    "local_ref": "2",
+    "name": "Calmon Viana",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 330733313,
+  "lat": -23.5392991,
+  "lon": -46.4322176,
+  "tags": {
+    "local_ref": "1",
+    "name": "José Bonifácio",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 330733503,
+  "lat": -23.5417740,
+  "lon": -46.4488171,
+  "tags": {
+    "local_ref": "1",
+    "name": "Dom Bosco",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes",
+    "wikidata": "Q10275693",
+    "wikipedia": "pt:Estação Dom Bosco"
+  }
+},
+{
+  "type": "node",
+  "id": 330736297,
+  "lat": -23.5420777,
+  "lon": -46.4711247,
+  "tags": {
+    "name": "Corinthians-Itaquera",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "no",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 656346471,
+  "lat": -23.5453006,
+  "lon": -46.6163092,
+  "tags": {
+    "bicycle": "yes",
+    "local_ref": "4",
+    "name": "Brás",
+    "public_transport": "stop_position",
+    "railway": "crossing",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 656371999,
+  "lat": -23.5424437,
+  "lon": -46.4155199,
+  "tags": {
+    "alt_name": "Guaianazes",
+    "name": "Guaianases",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 656373736,
+  "lat": -23.5545966,
+  "lon": -46.3843841,
+  "tags": {
+    "local_ref": "1",
+    "name": "Antonio Gianetti Neto",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 656375982,
+  "lat": -23.5410723,
+  "lon": -46.3686050,
+  "tags": {
+    "local_ref": "1",
+    "name": "Ferraz de Vasconcelos",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 656377551,
+  "lat": -23.5255628,
+  "lon": -46.3327162,
+  "tags": {
+    "local_ref": "1",
+    "name": "Calmon Viana",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1843331318,
+  "lat": -23.5349402,
+  "lon": -46.6358857,
+  "tags": {
+    "description": "Linha 11 Coral e Expresso Aeroporto: chegada",
+    "local_ref": "3",
+    "name": "Luz",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1997626283,
+  "lat": -23.5253967,
+  "lon": -46.6674027,
+  "tags": {
+    "local_ref": "6",
+    "name": "Palmeiras-Barra Funda",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "BFU",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2251287913,
+  "lat": -23.5401804,
+  "lon": -46.5765360,
+  "tags": {
+    "name": "Tatuapé",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "no",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2258747786,
+  "lat": -23.5247883,
+  "lon": -46.3425452,
+  "tags": {
+    "local_ref": "2",
+    "name": "Poá",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2258747790,
+  "lat": -23.5256659,
+  "lon": -46.3439942,
+  "tags": {
+    "local_ref": "1",
+    "name": "Poá",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2262086000,
+  "lat": -23.5453233,
+  "lon": -46.6163473,
+  "tags": {
+    "bicycle": "yes",
+    "local_ref": "3",
+    "name": "Brás",
+    "public_transport": "stop_position",
+    "railway": "crossing",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2262086005,
+  "lat": -23.5419309,
+  "lon": -46.4711579,
+  "tags": {
+    "name": "Corinthians-Itaquera",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "no",
+    "train": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2262086006,
+  "lat": -23.5417738,
+  "lon": -46.4475594,
+  "tags": {
+    "local_ref": "2",
+    "name": "Dom Bosco",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2262086007,
+  "lat": -23.5422281,
+  "lon": -46.4154873,
+  "tags": {
+    "alt_name": "Guaianazes",
+    "name": "Guaianases",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2262086009,
+  "lat": -23.5388966,
+  "lon": -46.4309519,
+  "tags": {
+    "local_ref": "2",
+    "name": "José Bonifácio",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2264931697,
+  "lat": -23.5542583,
+  "lon": -46.3829812,
+  "tags": {
+    "local_ref": "2",
+    "name": "Antonio Gianetti Neto",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2264931698,
+  "lat": -23.5366942,
+  "lon": -46.2264951,
+  "tags": {
+    "local_ref": "1",
+    "name": "Braz Cubas",
+    "old_name": "Brás Cubas",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2264931699,
+  "lat": -23.5157616,
+  "lon": -46.1852307,
+  "tags": {
+    "name": "Estudantes",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2264931700,
+  "lat": -23.5404422,
+  "lon": -46.3679735,
+  "tags": {
+    "local_ref": "2",
+    "name": "Ferraz de Vasconcelos",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2264931701,
+  "lat": -23.5425985,
+  "lon": -46.2590936,
+  "tags": {
+    "name": "Jundiapeba",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2264931704,
+  "lat": -23.5212790,
+  "lon": -46.1974384,
+  "tags": {
+    "name": "Mogi das Cruzes",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2264931708,
+  "lat": -23.5343425,
+  "lon": -46.3071823,
+  "tags": {
+    "name": "Suzano",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4593540893,
+  "lat": -23.5253636,
+  "lon": -46.6674014,
+  "tags": {
+    "local_ref": "7",
+    "name": "Palmeiras-Barra Funda",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "BFU",
+    "train": "yes"
+  }
+}
+
+  ]
+}

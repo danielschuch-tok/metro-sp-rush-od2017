@@ -1,0 +1,819 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-23T16:06:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 419276,
+  "tags": {
+    "colour": "#008162",
+    "from": "Vila Prudente",
+    "name": "Linha 2 - Verde: Vila Prudente ⇒ Vila Madalena",
+    "name:en": "Line 2 - Green: Vila Prudente ⇒ Vila Madalena",
+    "network": "Metrô de São Paulo",
+    "network:wikidata": "Q483343",
+    "operator": "Companhia do Metropolitano de São Paulo",
+    "operator:wikidata": "Q38182538",
+    "public_transport:version": "2",
+    "ref": "2",
+    "route": "subway",
+    "to": "Vila Madalena",
+    "type": "route",
+    "wikidata": "Q588499",
+    "wikipedia": "pt:Linha 2 do Metrô de São Paulo"
+  }
+},
+{
+  "type": "relation",
+  "id": 419281,
+  "tags": {
+    "colour": "#FFD700",
+    "fee": "yes",
+    "from": "Luz",
+    "name": "Linha 4 - Amarela: Luz → Vila Sônia",
+    "network": "Metrô de São Paulo",
+    "network:wikidata": "Q483343",
+    "opening_hours": "Mo-Fr 04:40-24:00; Sa 04:40-25:00; Su 04:40-24:00",
+    "operator": "ViaQuatro",
+    "operator:wikidata": "Q3069359",
+    "public_transport:version": "2",
+    "ref": "4",
+    "route": "subway",
+    "to": "Vila Sônia",
+    "type": "route",
+    "wikidata": "Q3308457",
+    "wikipedia": "pt:Linha 4 do Metrô de São Paulo"
+  }
+},
+{
+  "type": "relation",
+  "id": 3613476,
+  "tags": {
+    "colour": "#ffd500",
+    "fee": "yes",
+    "from": "Vila Sônia",
+    "name": "Linha 4 - Amarela: Vila Sônia → Luz",
+    "network": "Metrô de São Paulo",
+    "network:wikidata": "Q483343",
+    "opening_hours": "Mo-Fr 04:40-24:00; Sa 04:40-25:00; Su 04:40-24:00",
+    "operator": "ViaQuatro",
+    "operator:wikidata": "Q3069359",
+    "public_transport:version": "2",
+    "ref": "4",
+    "route": "subway",
+    "to": "Luz",
+    "type": "route",
+    "wikidata": "Q3308457",
+    "wikipedia": "pt:Linha 4 do Metrô de São Paulo"
+  }
+},
+{
+  "type": "relation",
+  "id": 3619669,
+  "tags": {
+    "colour": "#008162",
+    "from": "Vila Madalena",
+    "name": "Linha 2 - Verde: Vila Madalena ⇒ Vila Prudente",
+    "name:en": "Line 2 - Green: Vila Madalena ⇒ Vila Prudente",
+    "network": "Metrô de São Paulo",
+    "network:wikidata": "Q483343",
+    "operator": "Companhia do Metropolitano de São Paulo",
+    "operator:wikidata": "Q38182538",
+    "public_transport:version": "2",
+    "ref": "2",
+    "route": "subway",
+    "to": "Vila Prudente",
+    "type": "route",
+    "wikidata": "Q588499",
+    "wikipedia": "pt:Linha 2 do Metrô de São Paulo"
+  }
+},
+{
+  "type": "node",
+  "id": 64035259,
+  "lat": -23.5440229,
+  "lon": -46.6426405,
+  "tags": {
+    "name": "República",
+    "network": "Linha 4 - Amarela",
+    "operator": "Motiva Linha 4",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "website": "https://trilhos.motiva.com.br/linha-4-amarela/estacoes/republica/"
+  }
+},
+{
+  "type": "node",
+  "id": 499647559,
+  "lat": -23.5923854,
+  "lon": -46.6306225,
+  "tags": {
+    "name": "Chácara Klabin",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 605663479,
+  "lat": -23.5685438,
+  "lon": -46.6476837,
+  "tags": {
+    "name": "Brigadeiro",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 605663490,
+  "lat": -23.5632422,
+  "lon": -46.6541854,
+  "tags": {
+    "name": "Trianon-Masp",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 605663530,
+  "lat": -23.5577354,
+  "lon": -46.6604929,
+  "tags": {
+    "alt_name": "Consolação Station",
+    "bicycle": "yes",
+    "int_name": "Consolação Station",
+    "name": "Consolação",
+    "network": "Linha 2 - Verde",
+    "operator": "Cia. do Metropolitano de São Paulo",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 605663555,
+  "lat": -23.5539779,
+  "lon": -46.6709502,
+  "tags": {
+    "name": "Clínicas",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 605663569,
+  "lat": -23.5509452,
+  "lon": -46.6776625,
+  "tags": {
+    "name": "Santuário Nossa Senhora de Fátima - Sumaré",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "SUM",
+    "subway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 652635456,
+  "lat": -23.5753455,
+  "lon": -46.6409011,
+  "tags": {
+    "level": "-2",
+    "name": "Paraíso",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "PSO",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 656071074,
+  "lat": -23.5489447,
+  "lon": -46.6523017,
+  "tags": {
+    "name": "Higienópolis-Mackenzie (Linha 4)",
+    "network": "Linha 4 - Amarela",
+    "operator": "Motiva Linha 4",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "wikidata": "Q8779002",
+    "wikimedia_commons": "Category:Higienópolis-Mackenzie (São Paulo Metro)",
+    "wikipedia": "pt:Estação Higienópolis–Mackenzie"
+  }
+},
+{
+  "type": "node",
+  "id": 656072831,
+  "lat": -23.5552211,
+  "lon": -46.6623125,
+  "tags": {
+    "bicycle": "yes",
+    "name": "Paulista",
+    "name:ja": "パウリスタ",
+    "network": "Linha 4 - Amarela",
+    "operator": "Motiva Linha 4",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "train": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 661582968,
+  "lat": -23.6012617,
+  "lon": -46.6025821,
+  "tags": {
+    "bicycle": "yes",
+    "name": "Sacomã",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 661582972,
+  "lat": -23.6022063,
+  "lon": -46.6124598,
+  "tags": {
+    "name": "Alto do Ipiranga",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 661582976,
+  "lat": -23.5957405,
+  "lon": -46.6209516,
+  "tags": {
+    "name": "Santos - Imigrantes",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 922094750,
+  "lat": -23.5844161,
+  "lon": -46.5819557,
+  "tags": {
+    "name": "Vila Prudente",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 926616651,
+  "lat": -23.5672029,
+  "lon": -46.6940244,
+  "tags": {
+    "bank": "UOL PagBank",
+    "name": "Faria Lima - PagBank",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "sponsor": "PagBank",
+    "subway": "yes",
+    "train": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1403755988,
+  "lat": -23.5672147,
+  "lon": -46.7019523,
+  "tags": {
+    "name": "Pinheiros",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "train": "no",
+    "wikidata": "Q7195875",
+    "wikimedia_commons": "Category:Pinheiros (São Paulo Metro)",
+    "wikipedia": "pt:Terminal Intermodal Pinheiros"
+  }
+},
+{
+  "type": "node",
+  "id": 1403755994,
+  "lat": -23.5718186,
+  "lon": -46.7080934,
+  "tags": {
+    "name": "Butantã",
+    "name:ja": "ブタンタン",
+    "name:pt": "Butantã",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "train": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2281353319,
+  "lat": -23.5927934,
+  "lon": -46.5895718,
+  "tags": {
+    "name": "Tamanduateí",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "TTI",
+    "subway": "yes",
+    "wikidata": "Q85805078",
+    "wikimedia_commons": "Category:Tamanduateí (São Paulo Metro)",
+    "wikipedia": "en:Tamanduateí (São Paulo Metro)"
+  }
+},
+{
+  "type": "node",
+  "id": 2311379677,
+  "lat": -23.5718604,
+  "lon": -46.7080357,
+  "tags": {
+    "name": "Butantã",
+    "name:ja": "ブタンタン",
+    "name:pt": "Butantã",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "train": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2510860830,
+  "lat": -23.5928348,
+  "lon": -46.5895287,
+  "tags": {
+    "name": "Tamanduateí",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "TTI",
+    "subway": "yes",
+    "wikidata": "Q85805078",
+    "wikimedia_commons": "Category:Tamanduateí (São Paulo Metro)",
+    "wikipedia": "en:Tamanduateí (São Paulo Metro)"
+  }
+},
+{
+  "type": "node",
+  "id": 2510860860,
+  "lat": -23.6013059,
+  "lon": -46.6025704,
+  "tags": {
+    "name": "Sacomã",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2510860874,
+  "lat": -23.6022896,
+  "lon": -46.6125986,
+  "tags": {
+    "name": "Alto do Ipiranga",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2736447212,
+  "lat": -23.5813935,
+  "lon": -46.6384332,
+  "tags": {
+    "name": "Ana Rosa",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "ANR",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2736907863,
+  "lat": -23.5464285,
+  "lon": -46.6907783,
+  "tags": {
+    "name": "Vila Madalena",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "VMD",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2751703376,
+  "lat": -23.5672724,
+  "lon": -46.6940380,
+  "tags": {
+    "bank": "UOL PagBank",
+    "name": "Faria Lima - PagBank",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "sponsor": "PagBank",
+    "subway": "yes",
+    "train": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2751703381,
+  "lat": -23.5662203,
+  "lon": -46.6841851,
+  "tags": {
+    "name": "Fradique Coutinho",
+    "network": "Linha 4 - Amarela",
+    "operator": "Motiva Linha 4",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2751703386,
+  "lat": -23.5662854,
+  "lon": -46.6841573,
+  "tags": {
+    "name": "Fradique Coutinho",
+    "network": "Linha 4 - Amarela",
+    "operator": "Motiva Linha 4",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2751703389,
+  "lat": -23.5489637,
+  "lon": -46.6522843,
+  "tags": {
+    "name": "Higienópolis-Mackenzie (Linha 4)",
+    "network": "Linha 4 - Amarela",
+    "operator": "Motiva Linha 4",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "wikidata": "Q8779002",
+    "wikimedia_commons": "Category:Higienópolis-Mackenzie (São Paulo Metro)",
+    "wikipedia": "pt:Estação Higienópolis–Mackenzie"
+  }
+},
+{
+  "type": "node",
+  "id": 2751703395,
+  "lat": -23.5362440,
+  "lon": -46.6345503,
+  "tags": {
+    "name": "Luz",
+    "network": "Linha 4 - Amarela",
+    "operator": "Motiva Linha 4",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "wikidata": "Q15243160",
+    "wikimedia_commons": "Category:Luz (São Paulo Metro)",
+    "wikipedia": "pt:Estação Luz"
+  }
+},
+{
+  "type": "node",
+  "id": 2751703399,
+  "lat": -23.5362644,
+  "lon": -46.6345194,
+  "tags": {
+    "name": "Luz",
+    "network": "Linha 4 - Amarela",
+    "operator": "Motiva Linha 4",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "wikidata": "Q15243160",
+    "wikimedia_commons": "Category:Luz (São Paulo Metro)",
+    "wikipedia": "pt:Estação Luz"
+  }
+},
+{
+  "type": "node",
+  "id": 2751703402,
+  "lat": -23.5606757,
+  "lon": -46.6719589,
+  "tags": {
+    "name": "Oscar Freire",
+    "network": "Linha 4 - Amarela",
+    "operator": "Motiva Linha 4",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "wikidata": "Q8779071",
+    "wikimedia_commons": "Category:Oscar Freire (São Paulo Metro)",
+    "wikipedia": "pt:Estação Oscar Freire"
+  }
+},
+{
+  "type": "node",
+  "id": 2751703407,
+  "lat": -23.5607358,
+  "lon": -46.6719214,
+  "tags": {
+    "name": "Oscar Freire",
+    "network": "Linha 4 - Amarela",
+    "operator": "Motiva Linha 4",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "wikidata": "Q8779071",
+    "wikimedia_commons": "Category:Oscar Freire (São Paulo Metro)",
+    "wikipedia": "pt:Estação Oscar Freire"
+  }
+},
+{
+  "type": "node",
+  "id": 2751703411,
+  "lat": -23.5552778,
+  "lon": -46.6622703,
+  "tags": {
+    "bicycle": "yes",
+    "name": "Paulista",
+    "name:ja": "パウリスタ",
+    "network": "Linha 4 - Amarela",
+    "operator": "Motiva Linha 4",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "train": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2751703417,
+  "lat": -23.5672842,
+  "lon": -46.7019390,
+  "tags": {
+    "name": "Pinheiros",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "train": "no",
+    "wikidata": "Q7195875",
+    "wikimedia_commons": "Category:Pinheiros (São Paulo Metro)",
+    "wikipedia": "pt:Terminal Intermodal Pinheiros"
+  }
+},
+{
+  "type": "node",
+  "id": 2751703427,
+  "lat": -23.5440787,
+  "lon": -46.6425968,
+  "tags": {
+    "name": "República",
+    "network": "Linha 4 - Amarela",
+    "operator": "Motiva Linha 4",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "website": "https://trilhos.motiva.com.br/linha-4-amarela/estacoes/republica/"
+  }
+},
+{
+  "type": "node",
+  "id": 2757587878,
+  "lat": -23.5814238,
+  "lon": -46.6385290,
+  "tags": {
+    "name": "Ana Rosa",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "ANR",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2757587879,
+  "lat": -23.5686809,
+  "lon": -46.6477730,
+  "tags": {
+    "name": "Brigadeiro",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2757587880,
+  "lat": -23.5925418,
+  "lon": -46.6307672,
+  "tags": {
+    "name": "Chácara Klabin",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2757587881,
+  "lat": -23.5540154,
+  "lon": -46.6709390,
+  "tags": {
+    "name": "Clínicas",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2757587882,
+  "lat": -23.5578719,
+  "lon": -46.6605929,
+  "tags": {
+    "alt_name": "Consolação Station",
+    "bicycle": "yes",
+    "int_name": "Consolação Station",
+    "name": "Consolação",
+    "network": "Linha 2 - Verde",
+    "operator": "Cia. do Metropolitano de São Paulo",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2757587883,
+  "lat": -23.5753009,
+  "lon": -46.6409362,
+  "tags": {
+    "level": "-2",
+    "name": "Paraíso",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "PSO",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2757587884,
+  "lat": -23.5961393,
+  "lon": -46.6203406,
+  "tags": {
+    "name": "Santos - Imigrantes",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2757587885,
+  "lat": -23.5509862,
+  "lon": -46.6776924,
+  "tags": {
+    "name": "Santuário Nossa Senhora de Fátima - Sumaré",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "SUM",
+    "subway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2757587888,
+  "lat": -23.5633573,
+  "lon": -46.6542737,
+  "tags": {
+    "name": "Trianon-Masp",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2757587890,
+  "lat": -23.5844393,
+  "lon": -46.5819197,
+  "tags": {
+    "name": "Vila Prudente",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4531084491,
+  "lat": -23.5862693,
+  "lon": -46.7237965,
+  "tags": {
+    "alt_name": "São Paulo-Morumbi",
+    "name": "São Paulo-Morumbi",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "wikidata": "Q9290828",
+    "wikimedia_commons": "Category:São Paulo–Morumbi (São Paulo Metro)",
+    "wikipedia": "pt:Estação São Paulo-Morumbi"
+  }
+},
+{
+  "type": "node",
+  "id": 4531084492,
+  "lat": -23.5862202,
+  "lon": -46.7238145,
+  "tags": {
+    "alt_name": "São Paulo-Morumbi",
+    "name": "São Paulo – Morumbi",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "wikidata": "Q9290828",
+    "wikimedia_commons": "Category:São Paulo–Morumbi (São Paulo Metro)",
+    "wikipedia": "pt:Estação São Paulo-Morumbi"
+  }
+},
+{
+  "type": "node",
+  "id": 9225333090,
+  "lat": -23.5934195,
+  "lon": -46.7348173,
+  "tags": {
+    "name": "Vila Sônia - Professora Elizabeth Tenreiro",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "wikidata": "Q7930027",
+    "wikimedia_commons": "Category:Vila Sônia (São Paulo Metro)",
+    "wikipedia": "pt:Terminal Intermodal Vila Sônia"
+  }
+},
+{
+  "type": "node",
+  "id": 9225358894,
+  "lat": -23.5934488,
+  "lon": -46.7348009,
+  "tags": {
+    "name": "Vila Sônia - Professora Elizabeth Tenreiro",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "wikidata": "Q7930027",
+    "wikimedia_commons": "Category:Vila Sônia (São Paulo Metro)",
+    "wikipedia": "pt:Terminal Intermodal Vila Sônia"
+  }
+},
+{
+  "type": "node",
+  "id": 10028445870,
+  "lat": -23.5464592,
+  "lon": -46.6908091,
+  "tags": {
+    "name": "Vila Madalena",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "ref": "VMD",
+    "subway": "yes"
+  }
+}
+
+  ]
+}

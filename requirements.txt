@@ -1,0 +1,6 @@
+pandas
+openpyxl
+dbfread
+matplotlib
+numpy
+pyproj

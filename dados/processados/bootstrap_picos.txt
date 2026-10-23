@@ -1,0 +1,6 @@
+bootstrap por pessoa, 200 reamostragens, IC95
+pico manhã: 07:00 (07:00-07:15)
+pico tarde: 18:00 (18:00-18:00)
+razão tarde/manhã: 1.09-1.23
+min >=70% do pico, manhã: 120-150
+min >=70% do pico, tarde: 90-135
